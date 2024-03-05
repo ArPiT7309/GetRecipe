@@ -1,4 +1,4 @@
-**Recipe Search Application**
+#Recipe Search Application
 
 This application allows you to search for recipes based on ingredients. Follow the instructions below to use the application effectively:
 
