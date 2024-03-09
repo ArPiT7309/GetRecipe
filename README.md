@@ -21,4 +21,5 @@ To close the recipe details modal, click on the "X" button in the top right corn
 Additional Information :-
 This application fetches recipe data from TheMealDB API.
 The application is responsive and works well on various devices, including desktops, tablets, and smartphones.
+
 Enjoy finding delicious recipes for your ingredients! If you have any questions or feedback, feel free to contact us.
